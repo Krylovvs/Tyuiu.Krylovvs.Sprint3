@@ -4,7 +4,7 @@
 
 namespace Tyuiu.Krylovvs.Sprint3.Task0.V13.Lib
 {
-    public class DataService : ISprint3Task0V13
+    public class DataService : BeatIt
     {
         public double GetSumSeries(double value, int startValue, int stopValue)
         {
