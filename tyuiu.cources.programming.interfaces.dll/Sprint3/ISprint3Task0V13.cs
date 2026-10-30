@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace tyuiu.cources.programming.interfaces
+namespace tyuiu.cources.programming.interfaces.Sprint3
 {
 	
 	public interface ISprint3Task0V13
