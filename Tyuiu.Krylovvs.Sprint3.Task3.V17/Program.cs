@@ -7,8 +7,8 @@ double Res = Examp.ConvertStringToInt("*vn98n! b,");
 Dictionary<string, string> PlaceHolders = new Dictionary<string, string>
 {
     {"{{THEME_PLACEHOLD}}","Оператор цикла foreach"},
-    {"{{QUEST_NUM}}","2"},
-    {"{{VAR_NUM}}","21"},
+    {"{{QUEST_NUM}}","3"},
+    {"{{VAR_NUM}}","17"},
     {"{{CONDITIONS}}","Используя цикл foreach удалить все буквы и знаки препинания, " +
     "оставить цифру затем преобразовать в число в строке: *vn98n! b,"},
     {"{{ENTER_DATA1_ARRAY}}","\"*vn98n! b,\""},
