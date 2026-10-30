@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace tyuiu.cources.programming.interfaces.Sprint3
+namespace tyuiu.cources.programming.interfaces
 {
 	// Token: 0x020002FB RID: 763
 	public interface ISprint3Task0V13
@@ -9,4 +9,3 @@ namespace tyuiu.cources.programming.interfaces.Sprint3
 		double GetSumSeries(double value, int startValue, int stopValue);
 	}
 }
-namespace tyuiu.cources.programming.interfaces.dll { }
