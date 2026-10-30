@@ -2,8 +2,8 @@
 
 namespace tyuiu.cources.programming.interfaces
 {
-	public interface BeatIt
-	{
+	public interface ISprint3Task0V13
+    {
 		double GetSumSeries(double value, int startValue, int stopValue);
 	}
 }
