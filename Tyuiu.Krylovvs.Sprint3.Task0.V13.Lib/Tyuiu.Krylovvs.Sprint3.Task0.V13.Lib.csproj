@@ -7,7 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\tyuiu.cources.programming.interfaces.dll\tyuiu.cources.programming.interfaces.dll.csproj" />
+    <None Remove="tyuiu.cources.programming.interfaces.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="tyuiu.cources.programming.interfaces.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="tyuiu.cources.programming.interfaces.dll">
+      <HintPath>tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 
